@@ -1,4 +1,1 @@
-What color is the sun? a. yellow b. green c. orange d. white Answer: A
-From what country is mount fuji? a. japan b. bangladesh c. thailand d. china Answer: A
-What color is the ocean? a. blue b. green c. gray d. red Answer: A
-What country has a place called burj khalifa? a. Thailanf b. Philippines c. Dubai d. Egypt Answer: C
+['What color is the ocean?', 'blue', 'green', 'white', 'yellow', 'A']
