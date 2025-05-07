@@ -1,5 +1,4 @@
 from tkinter import *
-import time
 import csv
 import random
 
@@ -33,6 +32,7 @@ def submit():
         letter_b.destroy()
         letter_c.destroy()
         letter_d.destroy()
+        submit_button.destroy()
         main_window.config(bg="black")
         game()
     else:
